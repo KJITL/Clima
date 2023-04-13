@@ -2,9 +2,7 @@
 
 ## Description 
 
-This app provides up-to-date weather information, including current weather conditions, for the user's current location and any city around the world. It presents weather data in a visually appealing format, making it easy for users to stay informed about weather conditions in different locations.
-I used : Flutter framwork & Weather API
-
+This app provides up-to-date weather information, including current weather conditions, for the user's current location and any city around the world. It presents weather data in a visually appealing format, making it easy for users to stay informed about weather conditions in different locations. Using Flutter framwork & Weather API
 
 ## Installation 
 
