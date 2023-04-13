@@ -11,14 +11,19 @@
 This link will guide you through the installation of Flutter on your local computer in detail.
 https://docs.flutter.dev/get-started/install
 
-## Features
+## Features & Screenshots
+Current Location Weather - This feature allows users to deduce and display the current weather conditions of their current location. It provides real-time weather information such as temperature,and weather description for the user's current location. This feature can be used to keep users updated with the current weather conditions in their area.
 
+![Screenshot_1681410280](https://user-images.githubusercontent.com/65549274/231851619-78cbe9d9-713e-4630-9001-dda0515d8c7f.png | width-100)
+
+
+Worldwide City Search - This feature enables users to search for weather information in any city around the world. Users can input the name of the city they want to get weather information for, and the application will fetch and display the current weather conditions for that city. This feature provides global weather data and allows users to stay informed about weather conditions in various locations.
+
+Weather Information Display - This feature displays weather information in a user-friendly and visually appealing manner. It presents weather data in a clear and concise format, making it easy for users to understand the current weather conditions. This feature may include features such as temperature units (e.g. Celsius or Fahrenheit), weather icons, and weather descriptions to provide a comprehensive overview of the current weather situation.
 
 
 ## Screenshots 
-![Screenshot_1681410236](https://user-images.githubusercontent.com/65549274/231850717-af8a6649-4472-493c-80e3-f56ac1509f52.png)
-![Uploading Screenshot_1681410292.png…]()
-![Screenshot_1681410280](https://user-images.githubusercontent.com/65549274/231850758-9593f2a1-041b-46f3-b050-ef8825563a9b.png)
+
 
 
 ## Resources
